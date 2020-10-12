@@ -2,16 +2,11 @@ plugins {
     id 'java'
 }
 
-group 'com.evbarnett'
+group 'org.example'
 version '1.0-SNAPSHOT'
 
 repositories {
     mavenCentral()
-}
-
-compileJava {
-    sourceCompatibility = 1.7
-    targetCompatibility = 1.7
 }
 
 dependencies {

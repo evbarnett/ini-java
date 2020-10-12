@@ -6,10 +6,10 @@ import org.junit.Test;
  * TODO Documentation
  * Author: github.com/evbarnett
  */
-public class TestIniWriter {
+public class TestBasic {
 
     @Test
     public void testBasic() {
-        new IniWriter().skeleton();
+        System.out.println("Hello");
     }
 }

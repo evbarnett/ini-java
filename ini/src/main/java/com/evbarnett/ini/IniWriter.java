@@ -5,8 +5,4 @@ package com.evbarnett.ini;
  * Author: github.com/evbarnett
  */
 public class IniWriter {
-
-    public void skeleton() {
-        System.out.println("Hello World");
-    }
 }
